@@ -1,5 +1,5 @@
 ---
-title: Jekyll로 블로그 만들기
+title: TIL - Jekyll로 블로그 만들기
 key: 20180904
 tags: TIL
 ---
