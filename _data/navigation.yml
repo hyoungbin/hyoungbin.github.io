@@ -1,7 +1,7 @@
 header:
   - titles:     
       en:       Home
-    url:        /home.html
+    url:        /index.html
   - titles:
       en:       Archive
     url:        /archive.html
