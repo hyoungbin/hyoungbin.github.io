@@ -11,6 +11,5 @@ tags: TIL
     - Server: GraphQL-yoga
     - TypeScript  ( server뿐 아니라 graphQL에도 적용 )
     - 서버에 대한 기본적인 구성만 끝낸 상태  
-    
   - 쓸 데 없는 사진전 
     - redux, store, redux-persist 적용
