@@ -13,6 +13,6 @@ tags: TIL
     - 자바스크립트를 공부할 때 런타임이 이걸 어떻게 해석할 것인가를 좀 주요햐게 보면 좋을 것 같다는 생각이 들었다.
 
 - 내일 할 일
-  - javascript prototype, __proto__ 개념 공부
+  - javascript prototype, _proto_ 개념 공부
   - promise, async/await 용법 자세히
   - airbnb가 제시한 스타일 가이드 읽어보기
